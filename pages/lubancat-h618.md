@@ -1,0 +1,13 @@
+- [[lubancat]][[h618]]学习资料
+	- 快速使用手册
+		- ![[野火]《快速使用手册—基于LubanCat-H618系列板卡》_20240514.pdf](../assets/[野火]《快速使用手册—基于LubanCat-H618系列板卡》_20240514_1723985048132_0.pdf)
+	- 应用开发
+		- ![[野火]《Linux基础与应用开发实战指南—基于LubanCat-全志系列板卡》_20240520.pdf](../assets/[野火]《Linux基础与应用开发实战指南—基于LubanCat-全志系列板卡》_20240520_1723985112925_0.pdf)
+	- 驱动开发
+		- ![[野火]《嵌入式Linux驱动开发实战指南—基于LubanCat-全志系列板卡》_20240527.pdf](../assets/[野火]《嵌入式Linux驱动开发实战指南—基于LubanCat-全志系列板卡》_20240527_1723985126319_0.pdf)
+	- 硬件资料
+		- ![H618_Brief_V1.0.pdf](../assets/H618_Brief_V1.0_1723985376470_0.pdf)
+		- ![H618_Datasheet_V1.0.pdf](../assets/H618_Datasheet_V1.0_1723985380762_0.pdf)
+		- ![H618_User_Manual_V1.0.pdf](../assets/H618_User_Manual_V1.0_1723985384911_0.pdf)
+		- ![LubanCatA1_EBF410372V1R0_SCH_20240228.pdf](../assets/LubanCatA1_EBF410372V1R0_SCH_20240228_1723985472373_0.pdf)
+		- ![[野火]鲁班猫A1开发板硬件规格书V1.0.pdf](../assets/[野火]鲁班猫A1开发板硬件规格书V1.0_1723985622284_0.pdf)

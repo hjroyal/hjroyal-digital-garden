@@ -1,0 +1,4 @@
+- [Python + Qt Designer：轻松打造大型复杂图形用户界面 (GUI) (qq.com)](https://mp.weixin.qq.com/s?__biz=MzkyMTU4MDIyMA==&mid=2247488488&idx=1&sn=d8120596a39fcf1b1bad7a985d70f8ad&chksm=c180343bf6f7bd2d3235e04acfb7e9ca38e413088c6d119e88a7a80a9563e002e59cd56e398b&mpshare=1&scene=1&srcid=0408x52GHqkZkT77Xug0YVm2&sharer_shareinfo=6dee8770e6f767912381faad903bf298&sharer_shareinfo_first=6dee8770e6f767912381faad903bf298#rd)
+- 典型应用案例qBittorrent
+	- ![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/VIupIhU5lf7vd3u81icJmKvCPCPqlWdWTmNVegMl6hiaZYsV9QSo4o0FvIdXe5LA4NSXZj1mAkyibvoD89HmtASdQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+-

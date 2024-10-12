@@ -1,0 +1,1 @@
+- [python 中 __init__的意义以及作用_python_脚本之家 (jb51.net)](https://www.jb51.net/article/276526.htm)

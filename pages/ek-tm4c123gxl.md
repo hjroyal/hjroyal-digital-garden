@@ -1,0 +1,6 @@
+- [[tm4c123gxl]]、[[tm4c]]
+	- ![(板子)Tiva C Series TM4C123G LaunchPad Evaluation Kit User's Manual.pdf](../assets/(板子)Tiva_C_Series_TM4C123G_LaunchPad_Evaluation_Kit_User's_Manual_1724419859121_0.pdf)
+	- ![TivaWare_库函数手册.pdf](../assets/TivaWare_库函数手册_1724419863619_0.pdf)
+	- ![TM4C123G LaunchPad Workshop实验练习步骤指南.pdf](../assets/TM4C123G_LaunchPad_Workshop实验练习步骤指南_1724420051012_0.pdf)
+	- ![tm4c123gh6pm_数据手册.pdf](../assets/tm4c123gh6pm_数据手册_1724420078462_0.pdf)
+	- [PinMux Tool v4 User Guide (ti.com)](https://software-dl.ti.com/ccs/esd/pinmux/pinmux_user_guide.html)

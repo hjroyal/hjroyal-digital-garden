@@ -1,0 +1,168 @@
+[{:block/name "20220803",
+  :block/created-at 1659538330617,
+  :block/updated-at 1659538330617}
+ {:block/name "20220817",
+  :block/created-at 1660751590456,
+  :block/updated-at 1660751590456}
+ {:block/name "20220820",
+  :block/created-at 1661024282634,
+  :block/updated-at 1661024282634}
+ {:block/name "624ee374-1026-4ef9-ad29-82b6e3fb122b",
+  :block/created-at 1659028054948,
+  :block/updated-at 1659028054948}
+ {:block/name "a",
+  :block/created-at 1649278241754,
+  :block/updated-at 1649278241754}
+ {:block/name "adding epicycles",
+  :block/created-at 1660751590670,
+  :block/updated-at 1660751590670}
+ {:block/name "agile",
+  :block/created-at 1660751590652,
+  :block/updated-at 1660751590652}
+ {:block/name "apr 4th, 2022",
+  :block/created-at 1659028054475,
+  :block/updated-at 1659028054475}
+ {:block/name "asset",
+  :block/created-at 1660751590659,
+  :block/updated-at 1660751590659}
+ {:block/name "asset-liability duality",
+  :block/created-at 1660751590656,
+  :block/updated-at 1660751590656}
+ {:block/name "b",
+  :block/created-at 1649278241755,
+  :block/updated-at 1649278241755}
+ {:block/name "c",
+  :block/created-at 1649278241755,
+  :block/updated-at 1649278241755}
+ {:block/name "canceled",
+  :block/created-at 1659542814641,
+  :block/updated-at 1659542814641}
+ {:block/name "cancelled",
+  :block/created-at 1659542814641,
+  :block/updated-at 1659542814641}
+ {:block/name "card",
+  :block/created-at 1649278241754,
+  :block/updated-at 1649278241754}
+ {:block/name "cargo cult",
+  :block/created-at 1660751590696,
+  :block/updated-at 1660751590696}
+ {:block/name "clever hans",
+  :block/created-at 1660751590694,
+  :block/updated-at 1660751590694}
+ {:block/name "common sense",
+  :block/created-at 1660751590688,
+  :block/updated-at 1660751590688}
+ {:block/name "confirmation bias",
+  :block/created-at 1660751590673,
+  :block/updated-at 1660751590673}
+ {:block/name "contents",
+  :block/created-at 1649280547682,
+  :block/updated-at 1649280547682}
+ {:block/name "conway's law",
+  :block/created-at 1660751590681,
+  :block/updated-at 1660751590681}
+ {:block/name "delusion",
+  :block/created-at 1660751590679,
+  :block/updated-at 1660751590679}
+ {:block/name "doing",
+  :block/created-at 1649278241754,
+  :block/updated-at 1649278241754}
+ {:block/name "done",
+  :block/created-at 1649278241755,
+  :block/updated-at 1649278241755}
+ {:block/name "dunning-kruger",
+  :block/created-at 1660751591102,
+  :block/updated-at 1660751591102}
+ {:block/name "elegance",
+  :block/created-at 1660751590663,
+  :block/updated-at 1660751590663}
+ {:block/name "favorites",
+  :block/created-at 1649278241754,
+  :block/updated-at 1649278241754}
+ {:block/name "in-progress",
+  :block/created-at 1649278241755,
+  :block/updated-at 1649278241755}
+ {:block/name "index",
+  :block/created-at 1649078028874,
+  :block/updated-at 1649082531479}
+ {:block/name "investing knowledge",
+  :block/created-at 1661024282704,
+  :block/updated-at 1661024354924}
+ {:block/name "irrationality",
+  :block/created-at 1660751591098,
+  :block/updated-at 1660751591098}
+ {:block/name "kakonomy",
+  :block/created-at 1660751590708,
+  :block/updated-at 1660751590708}
+ {:block/name "later",
+  :block/created-at 1649278241754,
+  :block/updated-at 1649278241754}
+ {:block/name "liability",
+  :block/created-at 1660751590658,
+  :block/updated-at 1660751590658}
+ {:block/name "literate programming",
+  :block/created-at 1660751590664,
+  :block/updated-at 1660751590664}
+ {:block/name "low cost",
+  :block/created-at 1660751591103,
+  :block/updated-at 1660751591103}
+ {:block/name "market for lemons",
+  :block/created-at 1660751590707,
+  :block/updated-at 1660751590707}
+ {:block/name "moving the goalposts",
+  :block/created-at 1660751590669,
+  :block/updated-at 1660751590669}
+ {:block/name "notes about logseq",
+  :block/created-at 1659028054631,
+  :block/updated-at 1659028054631}
+ {:block/name "notes to self",
+  :block/created-at 1659028054629,
+  :block/updated-at 1659028054629}
+ {:block/name "now",
+  :block/created-at 1649278241755,
+  :block/updated-at 1649278241755}
+ {:block/name "organization",
+  :block/created-at 1660751590700,
+  :block/updated-at 1660751590700}
+ {:block/name "pathological organizations",
+  :block/created-at 1660751590699,
+  :block/updated-at 1660751590699}
+ {:block/name "plausible deniability",
+  :block/created-at 1660751590684,
+  :block/updated-at 1660751590684}
+ {:block/name "points to expand on",
+  :block/created-at 1660751591130,
+  :block/updated-at 1660751591130}
+ {:block/name "process",
+  :block/created-at 1660751590685,
+  :block/updated-at 1660751590685}
+ {:block/name "readme",
+  :block/created-at 1649077999626,
+  :block/updated-at 1649077999626}
+ {:block/name "reminders",
+  :block/created-at 1660751591475,
+  :block/updated-at 1660751591475}
+ {:block/name "scifi",
+  :block/created-at 1660751591498,
+  :block/updated-at 1660751591498}
+ {:block/name "tdd",
+  :block/created-at 1660751590666,
+  :block/updated-at 1660751590666}
+ {:block/name "test",
+  :block/created-at 1659028054628,
+  :block/updated-at 1659028054628}
+ {:block/name "tests",
+  :block/created-at 1660751590667,
+  :block/updated-at 1660751590667}
+ {:block/name "todo",
+  :block/created-at 1649278241755,
+  :block/updated-at 1649278241755}
+ {:block/name "wait",
+  :block/created-at 1649278241755,
+  :block/updated-at 1649278241755}
+ {:block/name "waiting",
+  :block/created-at 1649278241754,
+  :block/updated-at 1649278241754}
+ {:block/name "why?",
+  :block/created-at 1659028054626, 
+  :block/updated-at 1659028054626}]

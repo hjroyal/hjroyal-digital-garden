@@ -1,0 +1,8 @@
+- [[C]]
+	- [pms67/PID: PID controller implementation written in C. (github.com)](https://github.com/pms67/PID)
+- [[python]]
+	- [ivmech/ivPID: Python PID Controller (github.com)](https://github.com/ivmech/ivPID)
+	- [m-lundberg/simple-pid: A simple and easy to use PID controller in Python (github.com)](https://github.com/m-lundberg/simple-pid)
+- [[matlab]]
+	- [Cking616/Adavance_PID: 先进PID控制算法(ADRC,TD,ESO) (github.com)](https://github.com/Cking616/Adavance_PID)
+	- [qiuwenhui/PID_MATLAB_Learn: 先进PID控制MATLAB仿真 (4th） MATLAB PID算法 仿真 学习 (github.com)](https://github.com/qiuwenhui/PID_MATLAB_Learn)

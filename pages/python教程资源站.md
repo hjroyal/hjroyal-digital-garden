@@ -1,0 +1,4 @@
+- [[python]]
+	- [[Python - 100天从新手到大师]]
+	- [交互式学Python | 莫烦Python (mofanpy.com)](https://mofanpy.com/tutorials/python-basic/interactive-python/)
+	- [Python3 教程 | 菜鸟教程 (runoob.com)](https://www.runoob.com/python3/python3-tutorial.html)
