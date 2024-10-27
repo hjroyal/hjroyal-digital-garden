@@ -1,0 +1,7 @@
+- [[28p65]]芯片资料
+	- ![tms320f28p650dk_数据手册.pdf](../assets/tms320f28p650dk_数据手册_1729732511715_0.pdf)
+	- ![TMS320F28P65x_Real-Time_Microcontrollers_Technical_Reference_Manual_(Rev._B).pdf](../assets/TMS320F28P65x_Real-Time_Microcontrollers_Technical_Reference_Manual_(Rev._B)_1729732582409_0.pdf)
+- F28P65x LaunchPad
+	- ![28P65开发套件.pdf](../assets/28P65开发套件_1729732692713_0.pdf)
+	- ![28p65LaunchPad引脚图.pdf](../assets/28p65LaunchPad引脚图_1729732807397_0.pdf)
+	- ![P65_开发板用户指南.pdf](../assets/P65_开发板用户指南_1729732870082_0.pdf)

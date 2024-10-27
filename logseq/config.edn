@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["常用资源站" "折腾的小项目" "logseq" "有意栽花花满枝" "博客网站荟萃" "Index"]
+ :favorites ["数据预处理" "数据预处理C实现" "常用资源" "效率工具" "常用资源站" "折腾的小项目" "logseq" "有意栽花花满枝" "博客网站荟萃" "Index"]
 
  ;; Set flashcards interval.
  ;; Expected value:
