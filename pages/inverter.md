@@ -2,4 +2,13 @@
 	- ![葛程科_2022_级联H桥SVG控制策略研究.pdf](../assets/葛程科_2022_级联H桥SVG控制策略研究_1724477648186_0.pdf)
 	- ![沈_2019_考虑不平衡工况的级联H桥SVG控制策略的研究.pdf](../assets/沈_2019_考虑不平衡工况的级联H桥SVG控制策略的研究_1724477718290_0.pdf)
 	- ![于_2017_级联H桥SVG电流环先进控制策略研究.pdf](../assets/于_2017_级联H桥SVG电流环先进控制策略研究_1724477785516_0.pdf)
-	-
+-
+- 参考项目
+	- 一个简单的光伏逆变器
+		- ![image.png](../assets/image_1729955636869_0.png)
+		- 作者博客
+		  collapsed:: true
+			- [Home](https://sites.google.com/view/pablovela/home)
+		- [Thesis: Suboptimal Operation of Electrical Generation based on Solar Panels](https://sites.google.com/view/pablovela/solar-energy/thesis-research)
+		- github
+			- [pvela2017/Three-phase-inverter-DSP-TMS320F28335: DSP TMS320F28335 C Code for Three Phase VSI](https://github.com/pvela2017/Three-phase-inverter-DSP-TMS320F28335)

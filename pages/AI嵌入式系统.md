@@ -1,0 +1,3 @@
+- 参考资料
+	- [AI嵌入式系统：算法优化与实现 (豆瓣) ](https://book.douban.com/subject/35680669/)
+	- ![AI嵌入式系统 算法优化与实现 (应忍冬刘佩林) (Z-Library).pdf](../assets/AI嵌入式系统_算法优化与实现_(应忍冬刘佩林)_(Z-Library)_1728896874018_0.pdf)
