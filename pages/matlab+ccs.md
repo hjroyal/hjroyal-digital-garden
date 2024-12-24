@@ -1,0 +1,3 @@
+- 搭建环境
+	- [Matlab生成dsp程序——环境搭建（c2000系列[F28335、F2837x]都适用）_matlabf28335安装-CSDN博客](https://blog.csdn.net/qq_42151264/article/details/107114851)
+	- [第十三章：Clark变换及代码生成 - 哔哩哔哩](https://www.bilibili.com/opus/889726729089712136)

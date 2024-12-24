@@ -4,3 +4,5 @@
 	- ![TM4C123G LaunchPad Workshop实验练习步骤指南.pdf](../assets/TM4C123G_LaunchPad_Workshop实验练习步骤指南_1724420051012_0.pdf)
 	- ![tm4c123gh6pm_数据手册.pdf](../assets/tm4c123gh6pm_数据手册_1724420078462_0.pdf)
 	- [PinMux Tool v4 User Guide (ti.com)](https://software-dl.ti.com/ccs/esd/pinmux/pinmux_user_guide.html)
+	- [【TM4开发环境搭建-CCS版】CCS使用暗色主题 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000023098177?utm_source=sf-related)
+	- [一种STM32的串口控制台的实现(非常实用)_单片机实现console csdn-CSDN博客](https://blog.csdn.net/wanxuncpx/article/details/27556181)

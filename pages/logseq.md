@@ -1,1 +1,1 @@
--
+- [Logseq Pro’s Best Practice](https://logseq.pro/#/page/logseq%20pro%E2%80%99s%20best%20practice)

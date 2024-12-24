@@ -1,0 +1,1 @@
+- [C++高频面试题——内存管理、堆栈、指针](https://mp.weixin.qq.com/s?__biz=Mzg5MjU5NTk3Nw==&mid=2247484651&idx=1&sn=f67ddd4c1a385d9b4574de11b48e3d88&chksm=c03afe8df74d779b97d2cbdedf79d373260e935128edb2d125daad1c2480f6230702c1174a8c&mpshare=1&scene=1&srcid=0701rykVH0OWIEyfCc4JDy7T&sharer_shareinfo=a680aaab0e55302b904e6acf21dc16ab&sharer_shareinfo_first=a680aaab0e55302b904e6acf21dc16ab)

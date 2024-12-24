@@ -1,0 +1,1 @@
+- [嵌入式系统软件架构设计(长篇深度好文)-阿里云开发者社区](https://developer.aliyun.com/article/1325484)
