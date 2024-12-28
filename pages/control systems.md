@@ -6,6 +6,21 @@
 - 控制理论地图
   collapsed:: true
 	- ![Control_Map_ver5.png](../assets/Control_Map_ver5_1734959348907_0.png)
+- ==学习网站==
+	- 自动控制相关网站
+		- [Control Tutorials for MATLAB and Simulink - Introduction: System Modeling](https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction§ion=SystemModeling)
+		  background-color:: red
+			- 对控制系统进行了全面的讲解，包括建模、分析、PID控制器、根轨迹、频域分析、状态空间方法、数字控制器设计等；
+			- 关键还提供了大量的实例，实例从开始的理论分析、到模型构建、仿真代码撰写、仿真结果分析等，整个过程都包含了，十分仔细，十分值得学习！
+		- [Control Notes](https://blog.opticontrols.com/)
+			- 主要是针对过程控制的一些基本信息，一些案例，一些问题，一些方法进行讲解、讨论。比如说过程控制的一些特性、PID控制器、控制调节、控制环路的性能，问题以及诊断以及一些经典案例学习等内容。
+		- [Control Systems - Introduction](https://www.tutorialspoint.com/control_systems/control_systems_introduction.htm)
+			- 知识点十分全面，涉及到的内容十分多，总结都是十分到位。而且更多的内容还是集中在十分基础的，数学建模、理论分析这一块，包含波特图、根轨迹、奈奎斯特图等，同时也是包括一些控制器的设计等内容，十分全面，十分基础。
+		- [Discrete-time PID Controller Implementation | Scilab](https://www.scilab.org/discrete-time-pid-controller-implementation)
+			- 将PID离散化的应用，主要的方法梯形方法、前向欧拉法或者后向欧拉法。学习这篇文章，可以让我们更好的如何将PID代码，转换成C代码，更好的移植到控制器中，便于我们的控制器或单片机执行！
+		- [CSA - Your Controls Resource](https://controlsystemsacademy.com/)
+			- 各种控制相关知识大汇总，在线资源，教学视频，仿真教学、在线仿真，教学案例，实在是太多了，太有助于学习和应用。
+			-
 - 案例分析
 	- [[buck]]电路传递函数
 - 拉普拉斯变换
@@ -13,6 +28,8 @@
 - 控制算法
 	- [控制系统的数学模型有几种？](https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODg5OQ==&mid=2247483886&idx=1&sn=975bcc2ca70c2663e289493a909f441b&chksm=c3571502f4209c1406ee07cc4d22bf38ae65c037b6cd2d90bc08436b638a08934bc5961acdc8&mpshare=1&scene=1&srcid=0704f9D7zbWlz5vKg093zJ8Q&sharer_shareinfo=4e42fb56df2d4d1bcba41ed9f26d8c49&sharer_shareinfo_first=4e42fb56df2d4d1bcba41ed9f26d8c49)
 	- [[pid]]
+		- ![pid.pdf](../assets/pid_1735281671885_0.pdf)
+			- 数字实现PID控制器
 	- [[mpc]]
 		- [自动驾驶—MPC模型预测控制算法工程实现](https://mp.weixin.qq.com/s?__biz=MzkzMDU5NDc4Nw==&mid=2247484235&idx=3&sn=cf52a31203873e449e9763b86f83b22c&chksm=c276a9c7f50120d13b39c595c867f31d273b626c7237c593cd6f6d63637aba3e6bc347252af0&mpshare=1&scene=1&srcid=0707md1rJjVrf7RzxdYCCqtc&sharer_shareinfo=36fcfa5633123ec8b5870e45f3ba60ea&sharer_shareinfo_first=36fcfa5633123ec8b5870e45f3ba60ea)
 	- [[lqr]]

@@ -1,4 +1,5 @@
-- [[电力电子技术]]学习路线
+- [[power electronics]]学习路线
+  title:: power electronics
 	- 核心参考资料
 		- 1、上科大PPT
 			- ![Power_electronicsⅠ.pdf](../assets/Power_electronicsⅠ_1728742627985_0.pdf)  本科
