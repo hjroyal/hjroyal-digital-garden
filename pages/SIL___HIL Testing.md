@@ -1,0 +1,1 @@
+- SIL（Software-in-the-Loop）和HIL（Hardware-in-the-Loop）测试是两种重要的测试方法，广泛应用于复杂系统的开发与验证中。

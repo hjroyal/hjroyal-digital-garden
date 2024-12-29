@@ -1,0 +1,2 @@
+- **敏捷模型（Agile Model）** ：敏捷方法强调灵活性和客户参与，通过短周期的迭代开发来快速响应变化。常见的敏捷框架包括Scrum和Kanban
+- ![image.png](../assets/image_1735469515951_0.png)

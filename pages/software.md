@@ -1,0 +1,64 @@
+- [[Programming Languages]]
+	- ==[[c]]==
+	- ==[[c++]]==
+	- ==[[python]]==
+	- assembly
+	- rust
+- Programming Fundamentals
+	- ==[[algorithms]]==
+	- ==[[data structures]]==
+	- ==[[design patterns]]==
+	- ==[[state machines]]==
+	- ==[[memory management]]==
+- Operating Systems
+	- Operating System Fundamentals
+	- Real-Time OS
+		- RTOS basics
+		- freeRTOS
+		- [[ucos3]]
+		- vxworks
+		- [[qp]]
+		- rt-thread
+		- qnx
+		- zephyr
+	- Embedded Linux
+		- linux kernel
+		- device drivers
+		- u-boot
+		- buildroot
+		- yocto
+		- threading
+		- parallelism
+		- ipc
+		- qt framework
+- SDLC Models
+	- 软件开发生命周期模型
+	- [[agile model]]
+		- scrum
+	- ==[[V Model]]==
+- Build System
+	- compilers
+	- ==[[gcc]]==
+	- ==[[make]]==
+	- ==[[cmake]]==
+	- [[bash]] scripting
+	- docker
+- Debugging
+	- JTAG
+	- SWD
+	- OpenOCD
+- Version Control
+	- ==svn==
+	- ==git==
+- Testing
+	- [[TDD]]
+	- Unit Testing
+	- CI/CD Pipelines
+	- [[SIL/HIL Testing]]
+	- [[standards]]
+	- certifications
+- Embedded Security
+- Embedded GUI
+- IoT
+- Edge AI
+- AUTOSAR

@@ -1,0 +1,84 @@
+- electronics
+	- ==[[basic math]]==
+	- ==principles of electric circuits==
+	- ==electronics fundamentals==
+	- ==digital design==
+	- ==[[computer architecture]]==
+- using test equipment
+	- ==multimeter==
+	  collapsed:: true
+		- 万用表
+	- ==logic analyzer==
+	  collapsed:: true
+		- 逻辑分析仪
+	- ==protocol analyzer==
+	  collapsed:: true
+		- 协议分析器
+	- oscilloscope
+	  collapsed:: true
+		- 示波器
+- prototyping skills
+	- breadboarding
+	- hardware design basics
+	- PCB design
+	- EMC
+		- 电磁兼容性
+	- soldering
+		- 焊接
+	- rework
+- FPGA development
+- sensors
+- actuators
+- digital signal processing
+- control theory
+- memory technologies
+- file systems
+- hardware simulation
+- interfaces & protocols
+	- basic
+		- ==uart==
+		- ==i2c==
+		- ==spi==
+	- high-speed
+		- ==ethernet==
+		- ==usb==
+		- pcie
+	- wireless
+		- ==bluetooth==
+		- ==wifi==
+		- lora
+		- zigbee
+		- thread
+		- matter
+		- uwb
+	- industrial
+		- ==modbus==
+		- ==mqtt==
+		- profinet
+		- etherCAT
+		- CoAP
+	- network
+		- tcp/ip
+		- udp
+	- automotive
+		- can
+		- lin
+		- most
+		- flexRay
+	- cellular
+		- GSM / LTE
+		- LTE-M / 5G
+		- NB-IoT
+- ==microcontrollers==
+	- gpio
+	- adc
+	- dac
+	- timers
+	- counters
+	- pwm
+	- watchdog
+	- interrupts
+	- dma
+	- clock
+	- power
+	- bootloader
